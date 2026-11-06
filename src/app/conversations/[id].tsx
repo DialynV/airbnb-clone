@@ -138,7 +138,7 @@ const Chat = () => {
                 <Text style={styles.optionText}>No, I'm done.</Text>
               </Pressable>
             </View>
-          ) : null
+          ) : undefined
         }
       />
 
